@@ -1,0 +1,18 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: Andrew's site
+copyright: Andrew Stevenson
+newContentEditor: code
+
+theme: stack
+
+params:
+  favicon: /logo.png
+  sidebar:
+    # emoji: 👍
+    subtitle: todo
+    avatar:
+      enabled: true
+      local: true
+      src: img/logo.png
+
