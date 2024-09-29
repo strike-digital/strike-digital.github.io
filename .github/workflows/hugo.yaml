@@ -56,7 +56,8 @@ jobs:
           HUGO_ENVIRONMENT: production
           TZ: America/Los_Angeles
         run: |
-          cd /site
+          ls
+          cd site
           hugo \
             --gc \
             --minify \
