@@ -8,15 +8,18 @@ theme: stack
 
 params:
   favicon: /logo.png
+
   mainSections:
     - post
+
   sidebar:
     # emoji: 👍
-    subtitle: todo
+    subtitle: better than an angry duck
     avatar:
       enabled: true
       local: true
       src: img/logo.png
+
   widgets:
       homepage:
           - type: search
@@ -31,3 +34,14 @@ params:
                 limit: 10
       page:
           - type: toc
+
+  article:
+    math: false
+    toc: true
+    readingTime: true
+    license:
+      enabled: true
+      default: Licensed under CC BY-NC-SA 4.0
+
+  menu:
+    main: []  
