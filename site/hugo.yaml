@@ -2,12 +2,14 @@ baseURL: https://example.org/
 languageCode: en-us
 title: Andrew's site
 copyright: Andrew Stevenson
-newContentEditor: code
+# newContentEditor: code
 
 theme: stack
 
 params:
   favicon: /logo.png
+  mainSections:
+    - post
   sidebar:
     # emoji: 👍
     subtitle: todo
@@ -15,3 +17,17 @@ params:
       enabled: true
       local: true
       src: img/logo.png
+  widgets:
+      homepage:
+          - type: search
+          - type: archives
+            params:
+                limit: 5
+          - type: categories
+            params:
+                limit: 10
+          - type: tag-cloud
+            params:
+                limit: 10
+      page:
+          - type: toc
