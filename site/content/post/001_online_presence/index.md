@@ -20,15 +20,15 @@ Unfortunately, as a creative, you also have to create an online presence.
 So buckle up, because you're about the learn how. -->
 
 
-### Recuiters are like Ostriches
+## Recuiters are like Ostriches
 
 If they can't see you, you don't exist.
 
 This is generally considered a bad thing if you want to be hired, as existing is usually listed under the "*what we're looking for in a candidate*" section of a job posting.
 Keeping this in mind, as a creative, you should probably be looking to increase your visibility as much as possible, and creating an extensive online presence is a pretty good way to achieve that.
-This post will guide you through the treacherous waters of doing so, avoiding the shipwrecks, stormy weather and sea monsters of mediorcrity, and hopefully navigating to the glittering harbours of getting a job. So with our metaphors thoroughly muddled, lets get to it.
+This post will guide you through the treacherous waters of doing so, avoiding the shipwrecks, stormy weather and sea monsters of mediorcrity, and hopefully navigating to the glittering harbours of getting a job. So, with our metaphors thoroughly muddled, lets get to it.
 
-## Where to look
+## Where to start
 
 There's no shortage of websites you can use to promote yourself online, but not all of them are created equal.
 While it may be perfectly within your right to post your artwork exclusively on Myspace, Mumsnet and Tinder, it probably won't get you many jobs (unless you manage to match with a recruiter).
@@ -56,7 +56,7 @@ LinkedIn is like the weird cousin of the Social Media family. On the surface the
 
 Nevertheless, LinkedIn is also *the* place to go if you want to network with people in a professional setting, and as a result it is also the "social media" most likely to get your hired. Connections are best made in person, so attending in person events such as animation festivals, conferences and clubs is a great way to make more. Unfortunately though, this involves socialising, something which animators are not reknowned for.
 
-Make sure to never show any signs of weakness; negativity and humanity are not desirable traits in a worker, and as such are punished by the LinkedIn algorithm. Make sure to always put a positive spin on things; you weren't "made redundant due to job cuts", you're "starting a new and exciting chapter of your life without employment".
+When posting on LinkedIn make sure to never show any signs of weakness; negativity and humanity are not desirable traits in an employee, and as such are punished by the LinkedIn algorithm. Make sure to always put a positive spin on things; you weren't "made redundant due to job cuts", you're "starting an exciting chapter of your life without employment".
 
 That being said, you should be careful not to get too sucked into the LinkedIn way of thinking, as people can smell a LinkedIn goblin from a mile away. These individuals are characterised by those who exclusively talk to the most "influential" people in a room in the hopes of boosting their popularity, and who unironically use phrases like "lets circle back on that", "I'd love to mind meld with you sometime" and "Just to make sure we're in alignment on the deliverable, I'd like to double-click with you later so we can ideate on how to close this loop".
 
