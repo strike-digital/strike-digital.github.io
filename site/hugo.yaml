@@ -7,14 +7,14 @@ copyright: Andrew Stevenson
 theme: stack
 
 params:
-  favicon: /logo.png
+  favicon: logo.png
 
   mainSections:
     - post
 
   sidebar:
     # emoji: 👍
-    subtitle: Better than an angry duck
+    subtitle: Hell yeah
     avatar:
       enabled: true
       local: true
