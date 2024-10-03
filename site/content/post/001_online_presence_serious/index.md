@@ -19,6 +19,10 @@ One of the most daunting questions to answer is simply where to focus your effor
 
 ### Artstation
 
-Artstation a portfolio website where you can post your artwork, and collate it into a newat portfolio that can be easily viewed by a potential employer.
+[![A random artstation portfolio](artstation.jpg)](https://www.artstation.com/strike_digital)
 
-![An artstation portfolio](artstation.jpg)
+Artstation a portfolio website where you can post and collate your artwork into a neat portfolio that can be easily viewed by a potential employer. It is a must have for artists, whether you're a freelancer or are looking as it is pretty much the default site for finding artists and viewing their work. Here are some useful tips for creating an engaging portfolio on Artstation:
+
+- Create custom featured images: When creating a new post, you can choose the square thumbnail that will be used as the cover for this artwork. By default Artstation will use the first image you upload, but often this will be cropped 
+- Go beyond the minimum: According to Artstation themselves, posts made up of multiple images are [54%](https://magazine.artstation.com/2016/12/artstation-account/) more popular than those containing just one. Expanding on this, don't just post your final beauty shots, also post render passes, sketches, topology, breakdowns and tutorials. What's often more interesting than the final product is how it was made, and showing the process demonstrates to a recruiter that you know your stuff.
+- Only show your best work: It's sometimes tempting to post everything from your latest masterpiece to your scribbles your made when you were 11. However, a potential employer looking through your portfolio wont care about your progression; they want to see what you can do *now*. Even though it might seem counter-intuitive, Posting your best work alongside pieces that are no longer at your standard lowers the percieved quality of the whole portfolio.
