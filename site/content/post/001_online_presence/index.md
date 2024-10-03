@@ -1,96 +1,60 @@
 +++
-title = 'How (not) to create an online presence'
+title = 'Creating a successful online presence in 2024'
 date = 2024-09-30T01:25:41+01:00
 image = 'burning laptop.webp'
 # image = 'logo.png'
 # image = 'img/logo.png'
-description = "Don't follow this advice. Or do. I'm not your mum."
-draft = true
+description = ""
+# draft = true
 +++
-<!-- 
-{{< quote auth="Lady Gaga" source="Lady Gaga (allegedly)" url="https://www.brainyquote.com/quotes/lady_gaga_806781">}}
-### _The Internet is a toilet._
-{{< /quote >}} -->
-<!-- 
-{{< quote auth="The Dalai Lama" source="The Dalai Lama" url="https://www.dalailama.com/messages/transcripts-and-interviews/the-purpose-of-life-is-to-be-happy">}}
-The purpose of our lives is to be happy.
-{{< /quote >}}
 
-Unfortunately, as a creative, you also have to create an online presence.
-So buckle up, because you're about the learn how. -->
+Whether you're a freelancer looking to get more clients or a creative looking to increase your chances of getting hired, creating a professional online presence is one of the most effective ways to succeed. However, while the internet gives you the opportunity to reach more people than ever before, it gives that same opportunity to employers and clients. The real challenge is creating a presence that can attract people and make them want to work with *you*, rather than blending in to the sea of similar profiles. Furthermore, with all of the different websites, social media platforms and tools available to us, it can be easy to get overwhelmed.
+This article will outline some of the best routes to being successful online, hopfully demystifying the process and allowing you to continue to succede in your professional life.
 
-
-## Recuiters are like Ostriches
-
-If they can't see you, you don't exist.
-
-This is generally considered a bad thing if you want to be hired, as existing is usually listed under the "*what we're looking for in a candidate*" section of a job posting.
-Keeping this in mind, as a creative, you should probably be looking to increase your visibility as much as possible, and creating an extensive online presence is a pretty good way to achieve that.
-This post will guide you through the treacherous waters of doing so, avoiding the shipwrecks, stormy weather and sea monsters of mediorcrity, and hopefully navigating to the glittering harbours of getting a job. So, with our metaphors thoroughly muddled, lets get to it.
+Who am I? What qualifications do I have to talk about this? None! But I did listen to a lecture about it once, so I think that makes me more than qualified.
 
 ## Where to start
 
-There's no shortage of websites you can use to promote yourself online, but not all of them are created equal.
-While it may be perfectly within your right to post your artwork exclusively on Myspace, Mumsnet and Tinder, it probably won't get you many jobs (unless you manage to match with a recruiter).
-
-Here are some alternatives:
-
-### Twitter
-
-Starting off with a controversial one, Twitter is one of the harder platforms to make a name for yourself on. There are half a billion active users, so standing out via quality isn't easy. As such my advice is this: don't. In all likelihood, there are already countless Twitter users who are far better than you, and if you only post your very best work once every few months, you will be quickly be washed away by the firehose of content from other users.
-
-Instead, focus on consistency and frequency.
-Experiment with things, post work in progress screenshots and share tips and tricks.
-The idea is to produce enough content that people will be exposed to your work simply by chance.
-
-This being said, it's not an excuse to stop putting in effort into your work.
-It's important to find the correct balance of being high quality enough to pique peoples interest, while also being frequent enough for people to remember your name.
-If you're successful in this, Twitter can be a great place to advertise your skills, especially if you want to get work as a freelancer.
-
-Other than that though, Twitter is a hell hole, so try not to use it in anything other than a professional capacity.
-And make sure not to use your personal account for this, most recruiters wont want to see your political hot takes from 10 years ago.
-
-### LinkedIn
-
-LinkedIn is like the weird cousin of the Social Media family. On the surface they seem perfectly nice, but after some talking you realise that the smile is fake and they hurt animals for fun.
-
-Nevertheless, LinkedIn is also *the* place to go if you want to network with people in a professional setting, and as a result it is also the "social media" most likely to get your hired. Connections are best made in person, so attending in person events such as animation festivals, conferences and clubs is a great way to make more. Unfortunately though, this involves socialising, something which animators are not reknowned for.
-
-When posting on LinkedIn make sure to never show any signs of weakness; negativity and humanity are not desirable traits in an employee, and as such are punished by the LinkedIn algorithm. Make sure to always put a positive spin on things; you weren't "made redundant due to job cuts", you're "starting an exciting chapter of your life without employment".
-
-That being said, you should be careful not to get too sucked into the LinkedIn way of thinking, as people can smell a LinkedIn goblin from a mile away. These individuals are characterised by those who exclusively talk to the most "influential" people in a room in the hopes of boosting their popularity, and who unironically use phrases like "lets circle back on that", "I'd love to mind meld with you sometime" and "Just to make sure we're in alignment on the deliverable, I'd like to double-click with you later so we can ideate on how to close this loop".
-
-Just post your work there and try not to let it affect you too much.
+One of the most daunting questions to answer is simply where to focus your efforts. Should you make your own website, upload all your 3d models to Sketchfab, put your artworks on Artstation, make viral shorts on TikTok, look like a professional on LinkedIn, or argue on Twitter? Generally, apart from the last one, and depending on your traget audience, the answer is all of them.
 
 ### Artstation
 
+[![A random artstation portfolio](artstation.jpg)](https://www.artstation.com/strike_digital)
+
+Artstation a portfolio website where you can post and collate your artwork into a neat portfolio that can be easily viewed by a potential employer. It is a must have for artists, whether you're a freelancer or are looking as it is pretty much the default site for finding artists and viewing their work. Here are some useful tips for creating an engaging portfolio on Artstation:
+
+- Create custom featured images: When creating a new post, you can choose the square thumbnail that will be used as the cover for this artwork. By default Artstation will use the first image you upload, but often this will be cropped 
+- Go beyond the minimum: According to Artstation themselves, posts made up of multiple images are [54%](https://magazine.artstation.com/2016/12/artstation-account/) more popular than those containing just one. Expanding on this, don't just post your final beauty shots, also post render passes, sketches, topology, breakdowns and tutorials. What's often more interesting than the final product is how it was made, and showing the process demonstrates to a recruiter that you know your stuff.
+- Only show your best work: It's sometimes tempting to post everything from your latest masterpiece to your scribbles your made when you were 11. However, a potential employer looking through your portfolio wont care about your progression; they want to see what you can do *now*. Even though it might seem counter-intuitive, Posting your best work alongside pieces that are no longer at your standard lowers the percieved quality of the whole portfolio.
 
 
-<!-- ### Instagram
+### LinkedIn
 
-Like Twitter, but harder to get recognition as an artist. Instagram is more targeted at connecting people you know in real life, rather than rando's whos art -->
+![](linkedin.png)
 
-<!-- 
-## Pitfalls
-### You don't have to be The Best
-
-<!-- ### How to stand out? Don't. -->
-<!-- ### You don't have to be The Best -->
-
-<!-- Instead, focus on casting your net wide. -->
-<!-- Good enough is all you need.
-Past a certain point, skills alone won't get you hired.
-
-To clarify, consider this: There are 8 billion people on this planet. That is an unfathomable number.
-If you met one new person every hour, 24 hours a day, from when you were born to the day you die, you would have made it through just over half a percent of all the people alive today.
-As such, it is a statistical fact that there is someone out there who is more creative than you, someone who can work faster than you, someone who can draw more beautifully, model more precisely and animate more elegantly than you. Depressing, right?
+LinkedIn a good place to make professional connections and advertise yourself professionally. One of the things that makes LinkedIn unique from other platforms is that while you can make connections purely online, the best way is actually just to talk to people in person. Here, going to professional events like animation conferences, clubs and meetings are great ways to get talking to others in your area, and the phrase "Lets connect on LinkedIn" flows freely like water. The obvious caveat to this is that some social skills are required, something that animators are not necessarily renowned for. If you can get past that though, LinkedIn is a good centre for your online presence.
 
 
-However, this is not necessarily a bad thing. Think about how many people -->
-<!-- Be good. This is probably the most important step. You can be the most likable person in the world, but if your work isn't good, tough luck bucko, you're not getting hired.
+### Twitter
 
-Once that's done though, you've completed the hard bit, and all you need to worry about is getting as many people as possible to know that you exist. Consider it this way: there are 8 billion people on this planet. -->
-<!-- This is not ideal if you want to be hired, as existing is generally one of the prerequisites.
-Lucky for you, however, we invented the internet, which in this metaphor is like a shop where you can buy large signs saying "*Ostrich Food Here!*" in a large typeface.
-However, this shop also sells unrelated signs and there are also millions of other people who want the ostrich to notice them, so if you want to attract attention, you need a sign that will stand out from the crowd.
-Something like " "*Hot Ostriches Near You*" -->
+![](twitter.jpg)
+
+Despite its reputation, and its owner's attempts to drive it into the ground, [Twitter](https://x.com/StrikeDigital1) is still one of the best places to connect with a large audience. As such it better suited to freelancers looking to be more visible to clients, rather than those looking for full time employment. Twitter is very different from other websites in this list in that it is a social media first, and a professional tool second. As such, while on linked in, it might pay to only post polished work and your professional achievements, on Twitter it pays to post more often and less formally. Especially important is to post consistently; The more often people that see your name on their timeline, and associate it with your work, the more likely you'll be at the top of the list when they're thinking about who to approach to work on their next project. As such, try to post often, be that a finished project, a work in progress, tips and tricks or even just how you feel about whatever you're working on.
+
+
+### Others
+
+Some other platforms of interest:
+
+- [GitHub](https://github.com/strike-digital): If you do any coding, this is a must have, and if you're applying for a job involving programming, your GitHub profile will be one the first place a potential employer will look. As such, make sure to push a few meaningless commits every day, so you can keep that grid green . This will let your potential employer know that you're a professional.
+- Instagram: Succeeding as an artist on Instagram is difficult, but definitely possible. It has a lot of similarities with Twitter, but without a lot of the discovery tools that make it easier to build a following. As such, it can be easier to build an initial following on other platforms and then promote your instagram there to give yourself a head start.
+- [Youtube](https://www.youtube.com/@StrikeDigital3D): This is a great place to upload your demo reel, but if you're willing to put some time into tutorials or showcases it can also be a great place to build an audience. This takes significant time investment though, and is most beneficial to freelancers.
+
+
+## Conclusion
+
+There's a lot to learn about promoting yourself online, but if executed correctly, it can greatly increase your chances of getting jobs.
+
+In conclusion, a good online presence is essential if you want to be outstanding in your field.
+
+![](outstanding.jpg)
