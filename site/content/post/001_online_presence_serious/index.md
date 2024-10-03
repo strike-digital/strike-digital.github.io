@@ -26,3 +26,16 @@ Artstation a portfolio website where you can post and collate your artwork into 
 - Create custom featured images: When creating a new post, you can choose the square thumbnail that will be used as the cover for this artwork. By default Artstation will use the first image you upload, but often this will be cropped 
 - Go beyond the minimum: According to Artstation themselves, posts made up of multiple images are [54%](https://magazine.artstation.com/2016/12/artstation-account/) more popular than those containing just one. Expanding on this, don't just post your final beauty shots, also post render passes, sketches, topology, breakdowns and tutorials. What's often more interesting than the final product is how it was made, and showing the process demonstrates to a recruiter that you know your stuff.
 - Only show your best work: It's sometimes tempting to post everything from your latest masterpiece to your scribbles your made when you were 11. However, a potential employer looking through your portfolio wont care about your progression; they want to see what you can do *now*. Even though it might seem counter-intuitive, Posting your best work alongside pieces that are no longer at your standard lowers the percieved quality of the whole portfolio.
+
+
+### LinkedIn
+
+![](linkedin.png)
+
+LinkedIn a good place to make professional connections and advertise yourself professionally. One of the things that makes LinkedIn unique from other platforms is that while you can make connections purely online, the best way is actually just to talk to people in person. Here, going to professional events like animation conferences, clubs and meetings are great ways to get talking to others in your area, and the phrase "Lets connect on LinkedIn" flows freely like water. The obvious caveat to this is that some social skills are required, something that animators are not necessarily renowned for. If you can get past that though, LinkedIn is a good centre for your online presence.
+
+
+### Twitter
+
+Despite its reputation, and its new owner's incessent desire to drive it into the ground, Twitter is still one of the best places to connect with a large audience. As such it better suited to freelancers looking to be more visible to clients, rather than those looking for full time employment. Twitter is very different from other websites in this list in that it is a social media first, and a professional tool second. As such, while on linked in, it might pay to only post polished work and your professional achievements, on Twitter it pays to post more often and less formally. Consistency and volume will get you 
+
