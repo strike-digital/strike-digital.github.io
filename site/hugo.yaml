@@ -7,7 +7,7 @@ copyright: Andrew Stevenson
 theme: stack
 
 params:
-  favicon: logo.png
+  favicon: favicon.png
 
   mainSections:
     - post
