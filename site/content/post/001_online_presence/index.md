@@ -2,10 +2,7 @@
 title = 'Creating a successful online presence in 2024'
 date = 2024-09-30T01:25:41+01:00
 image = 'burning laptop.webp'
-# image = 'logo.png'
-# image = 'img/logo.png'
 description = ""
-# draft = true
 +++
 
 

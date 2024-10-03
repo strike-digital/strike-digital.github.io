@@ -21,19 +21,19 @@ params:
       src: img/logo.png
 
   widgets:
-      homepage:
-          - type: search
-          - type: archives
-            params:
-                limit: 5
-          - type: categories
-            params:
-                limit: 10
-          - type: tag-cloud
-            params:
-                limit: 10
-      page:
-          - type: toc
+    homepage:
+      - type: search
+      - type: archives
+        params:
+          limit: 5
+      - type: categories
+        params:
+          limit: 10
+      - type: tag-cloud
+        params:
+          limit: 10
+    page:
+      - type: toc
 
   article:
     math: false
@@ -44,4 +44,10 @@ params:
       default: Licensed under CC BY-NC-SA 4.0
 
   menu:
-    main: []  
+    main: []
+
+  footer:
+    since: 2024
+    customText:
+      '<a href="https://github.com/strike-digital/strike-digital.github.io">View
+      the source code</a>'
