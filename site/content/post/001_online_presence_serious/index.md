@@ -13,7 +13,7 @@ This article will outline some of the best routes to being successful online, ho
 
 Who am I? What qualifications do I have to talk about this? None! But I did listen to a lecture about it once, so I think that makes me more than qualified.
 
-## Platforms
+## Where to start
 
 One of the most daunting questions to answer is simply where to focus your efforts. Should you make your own website, upload all your 3d models to Sketchfab, put your artworks on Artstation, make viral shorts on TikTok, look like a professional on LinkedIn, or argue on Twitter? Generally, apart from the last one, and depending on your traget audience, the answer is all of them.
 
@@ -37,5 +37,24 @@ LinkedIn a good place to make professional connections and advertise yourself pr
 
 ### Twitter
 
-Despite its reputation, and its new owner's incessent desire to drive it into the ground, Twitter is still one of the best places to connect with a large audience. As such it better suited to freelancers looking to be more visible to clients, rather than those looking for full time employment. Twitter is very different from other websites in this list in that it is a social media first, and a professional tool second. As such, while on linked in, it might pay to only post polished work and your professional achievements, on Twitter it pays to post more often and less formally. Consistency and volume will get you 
+![](twitter.jpg)
 
+Despite its reputation, and its owner's attempts to drive it into the ground, [Twitter](https://x.com/StrikeDigital1) is still one of the best places to connect with a large audience. As such it better suited to freelancers looking to be more visible to clients, rather than those looking for full time employment. Twitter is very different from other websites in this list in that it is a social media first, and a professional tool second. As such, while on linked in, it might pay to only post polished work and your professional achievements, on Twitter it pays to post more often and less formally. Especially important is to post consistently; The more often people that see your name on their timeline, and associate it with your work, the more likely you'll be at the top of the list when they're thinking about who to approach to work on their next project. As such, try to post often, be that a finished project, a work in progress, tips and tricks or even just how you feel about whatever you're working on.
+
+
+### Others
+
+Some other platforms of interest:
+
+- [GitHub](https://github.com/strike-digital): If you do any coding, this is a must have, and if you're applying for a job involving programming, your GitHub profile will be one the first place a potential employer will look. As such, make sure to push a few meaningless commits every day, so you can keep that grid green 🟩. This will let your potential employer know that you're a professional.
+- Instagram: Succeeding as an artist on Instagram is difficult, but definitely possible. It has a lot of similarities with Twitter, but without a lot of the discovery tools that make it easier to build a following. As such, it can be easier to build an initial following on other platforms and then promote your instagram there to give yourself a head start.
+- [Youtube](https://www.youtube.com/@StrikeDigital3D): This is a great place to upload your demo reel, but if you're willing to put some time into tutorials or showcases it can also be a great place to build an audience. This takes significant time investment though, and is most beneficial to freelancers.
+
+
+## Conclusion
+
+There's a lot to learn about promoting yourself online, but if executed correctly, it can greatly increase your chances of getting jobs.
+
+In conclusion, a good online presence is essential if you want to be outstanding in your field.
+
+![](outstanding.jpg)
