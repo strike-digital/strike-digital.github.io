@@ -9,7 +9,6 @@ description = ""
 Whether you're a freelancer looking to get more clients or a creative looking to increase your chances of getting hired, creating a professional online presence is one of the most effective ways to succeed. However, while the internet gives you the opportunity to reach more people than ever before, it gives that same opportunity to employers and clients. The real challenge is creating a presence that can attract people and make them want to work with *you*, rather than blending in to the sea of similar profiles. Furthermore, with all the different websites, social media platforms and tools available to us, it can be easy to get overwhelmed.
 This article will outline some of the best routes to being successful online, hopefully demystifying the process and allowing you to continue to succeed in your professional life.
 
-Who am I? What qualifications do I have to talk about this? None! But I did listen to a lecture about it once, so I think that makes me more than qualified.
 
 ## Where to start
 
