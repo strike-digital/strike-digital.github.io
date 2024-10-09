@@ -1,12 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg">
     <style type="text/css">
 		.github {
-			/* fill: #13aff0; */
 			fill: #31d68a;
             scale: 22%;
             translate: 0px 1px;
             stroke-width: 0px;
-            border-radius: 0px;
 		}
 	</style>
     <path class="github" fill-rule="evenodd" clip-rule="evenodd"
