@@ -43,11 +43,33 @@ params:
       enabled: true
       default: Licensed under CC BY-NC-SA 4.0
 
-  menu:
-    main: []
-
   footer:
     since: 2024
     customText:
       '<a href="https://github.com/strike-digital/strike-digital.github.io">View
       the source code</a>'
+
+menu:
+  social:
+    - identifier: artstation
+      name: Artstation
+      url: https://www.artstation.com/strike_digital
+      params:
+        icon: artstation
+        newTab: true
+
+    - identifier: github
+      name: Github
+      url: https://github.com/strike-digital
+      params:
+        icon: github
+        newTab: true
+
+  main:
+    - identifier: haha
+      name: Home
+      url: /
+      weight: 100
+      params:
+        icon: home
+        newTab: false
