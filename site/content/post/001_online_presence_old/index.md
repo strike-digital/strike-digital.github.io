@@ -1,12 +1,10 @@
-+++
-title = 'How (not) to create an online presence'
-date = 2024-09-30T01:25:41+01:00
-image = 'burning laptop.webp'
-# image = 'logo.png'
-# image = 'img/logo.png'
-description = "Don't follow this advice. Or do. I'm not your mum."
-draft = true
-+++
+---
+date: "2024-09-30T01:25:41+01:00"
+description: Don't follow this advice. Or do. I'm not your mum.
+draft: true
+image: burning laptop.webp
+title: How (not) to create an online presence
+---
 <!-- 
 
 Unfortunately, as a creative, you also have to create an online presence.
