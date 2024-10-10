@@ -5,7 +5,9 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/configuration/#theme-parameters
 
-colorScheme = "basic"
+# Colours: 161618 1b1b1f 31d68a
+
+colorScheme = "nuclear"
 # fire, ocean, forest, princess, neon, bloody, terminal, marvel, noir, autumn, congo, andslate.
 defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = false
@@ -44,7 +46,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "img/author.jpg" # used in: hero, and card
+  homepageImage = "img/background.svg" # used in: hero, and card
   showRecent = true
   showRecentItems = 6
   showMoreLink = false

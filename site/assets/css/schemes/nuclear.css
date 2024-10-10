@@ -1,0 +1,33 @@
+:root {
+    --color-neutral: 255, 255, 255;
+    --color-neutral-50: 255, 255, 255;
+    --color-neutral-100: 232, 234, 237;
+    --color-neutral-200: 189, 194, 204;
+    --color-neutral-300: 146, 155, 170;
+    --color-neutral-400: 104, 116, 135;
+    --color-neutral-500: 71, 79, 92;
+    --color-neutral-600: 53, 59, 69;
+    --color-neutral-700: 35, 39, 46;
+    --color-neutral-800: 18, 20, 23;
+    --color-neutral-900: 0, 0, 0;
+    --color-primary-50: 255, 255, 255;
+    --color-primary-100: 255, 255, 255;
+    --color-primary-200: 240, 252, 247;
+    --color-primary-300: 177, 239, 210;
+    --color-primary-400: 113, 227, 174;
+    --color-primary-500: 49, 214, 138;
+    --color-primary-600: 37, 185, 117;
+    --color-primary-700: 30, 151, 95;
+    --color-primary-800: 23, 117, 74;
+    --color-primary-900: 17, 83, 53;
+    --color-secondary-50: 255, 255, 255;
+    --color-secondary-100: 255, 255, 255;
+    --color-secondary-200: 240, 252, 247;
+    --color-secondary-300: 177, 239, 210;
+    --color-secondary-400: 113, 227, 174;
+    --color-secondary-500: 49, 214, 138;
+    --color-secondary-600: 37, 185, 117;
+    --color-secondary-700: 30, 151, 95;
+    --color-secondary-800: 23, 117, 74;
+    --color-secondary-900: 17, 83, 53;
+}

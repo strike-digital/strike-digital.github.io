@@ -5,14 +5,15 @@ image: burning laptop.webp
 title: Creating a successful online presence in 2024
 ---
 
-
 Whether you're a freelancer looking to get more clients or a creative looking to increase your chances of getting hired, creating a professional online presence is one of the most effective ways to succeed. However, while the internet gives you the opportunity to reach more people than ever before, it gives that same opportunity to employers and clients. The real challenge is creating a presence that can attract people and make them want to work with *you*, rather than blending in to the sea of similar profiles. Furthermore, with all the different websites, tools and social media platforms available to us, it can be easy to get overwhelmed.
 This article will outline some of the best routes to being successful online, hopefully demystifying the process and allowing you to continue to succeed in your professional life.
 
 
 ## Where to start
 
+
 One of the most daunting questions to answer is simply where to focus your efforts. Should you make your own website, upload all your 3d models to Sketchfab, put your artworks on ArtStation, make viral shorts on TikTok, look like a professional on LinkedIn, or argue on Twitter? Generally, apart from the last one, and depending on your target audience, the answer is all of them.
+
 
 ### ArtStation
 
