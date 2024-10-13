@@ -10,14 +10,14 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
-#[[main]]
-#  name = "Blog"
-#  pageRef = "posts"
-#  weight = 10
+[[main]]
+ name = "Blog"
+ pageRef = "posts"
+ weight = 10
 
-#[[main]]
-#  name = "Parent"
-#  weight = 20
+[[main]]
+ name = "Parent"
+ weight = 20
 
 #[[main]]
 #  name = "example sub-menu 1"
@@ -36,13 +36,13 @@
 #  pageRef = "tags/interesting-topic"
 #  weight = 10
 
-#[[subnavigation]]
+# [[subnavigation]]
 #  name = "My Awesome Category"
 #  pre = "github"
 #  pageRef = "categories/awesome"
 #  weight = 20
 
-#[[main]]
+# [[main]]
 #  name = "Categories"
 #  pageRef = "categories"
 #  weight = 20
@@ -57,6 +57,10 @@
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
 
+
+[[footer]]
+  name = "Source code"
+  url = "https://github.com/strike-digital/strike-digital.github.io"
 
 # [[footer]]
 #   name = "Tags"
