@@ -19,6 +19,12 @@
  name = "Parent"
  weight = 20
 
+
+[[main]]
+  name = ""
+  pre = "github"
+  url = "https://github.com/strike-digital/strike-digital.github.io"
+
 #[[main]]
 #  name = "example sub-menu 1"
 #  parent = "Parent"
@@ -59,7 +65,7 @@
 
 
 [[footer]]
-  name = "Source code"
+  name = "View source code"
   url = "https://github.com/strike-digital/strike-digital.github.io"
 
 # [[footer]]
