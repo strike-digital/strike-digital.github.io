@@ -11,13 +11,18 @@
     }
 
     line {
-      filter: drop-shadow(0px 0px 1px rgba(46,255,115,0.7));
-      /* filter: blur(2px); */
-      transform: translateZ(0px);
-      /* filter: url(#glow); */
+      /* filter: drop-shadow(0px 0px 2px rgba(105, 255, 155, 0.7)); */
+      filter: url(#glow);
     }
   </style>
   <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.5" result="coloredBlur" />
+      <feMerge>
+        <feMergeNode in="coloredBlur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
     <pattern id="pid-0.7735807359934106" x="0" y="0" width="345.6" height="345.6" patternUnits="userSpaceOnUse">
       <g transform="scale(1.35)" class="all">
         <g class="light">
