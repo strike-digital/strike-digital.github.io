@@ -11,7 +11,7 @@ title = "Andrew Stevenson"
   dateFormat = "2 January 2006"
   # logo = "img/logo round.png"
   # secondaryLogo = "img/logo.png"
-  description = "Hello :)"
+  # description = "Hello :)"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
