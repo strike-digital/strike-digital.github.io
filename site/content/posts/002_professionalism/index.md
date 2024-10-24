@@ -14,10 +14,10 @@ Yes.
 ## Furthermore...
 
 From Aristotle to Steven Segal, the greatest minds in humanities long history have pondered what it takes to be a true Professional in the creative industries.
-Is it the ability to conquer your foes, crush them to dust and then drink wine from their skulls? That's probably what Genghis Kahn would say.
-Or is it the ability to work peacfully to achieve our goals, as Ghandi would probably have proclaimed?
+Is it the ability to conquer your foes, crush them to dust, and then drink wine from their skulls? That's probably what Genghis Kahn would say.
+Or is it the ability to work peacefully to achieve our goals, as Gandhi would probably have proclaimed?
 
-Indeed if any of these great historical features had access to LinkedIn, you could be sure that that would lose no time at all in sending these opinions whizzing into our eyeholes via the medium of an inspirational post.
+Indeed, if any of these great historical features had access to LinkedIn, you could be sure that that would lose no time at all in sending these opinions whizzing into our eyeholes via the medium of an inspirational post.
 
 > Just finished conquering Mongolia, It was a great chance to mind meld with some of the rival chiefs, they were very helpful after we burned, pillaged and looted their domains #Professionalism #PillagingIsACreativeIndustry
 >
@@ -25,16 +25,16 @@ Indeed if any of these great historical features had access to LinkedIn, you cou
 > 
 ![Kahn](KahnedIn.png)
 
-The Cambridge dictionary defines professionalism as:
+The Cambridge Dictionary defines professionalism as:
 
 > [Professionalism](https://dictionary.cambridge.org/dictionary/english/professionalism)
 > (/prəˈfeʃ.ən.əl.ɪ.zəm/)
 >
 > the combination of all the qualities that are connected with trained and skilled people
 
-Analyzing this, we can conclude that Mr. Kahn was indeed a professional as he was both trained and skilled, and as such was almost certainly an expert in the concept of professionalism.
+Analysing this, we can conclude that Mr. Kahn was indeed a professional as he was both trained and skilled, and as such was almost certainly an expert in the concept of professionalism.
 
-However just being a professional is not enough, we must further deduce whether he was also a creative. To do so we must first hear a story. There was an especially fierce battle with the Taijut tribe in 1201, and, as all great leaders should (that includes you Mark Carey) the G-Dog was embedded deep in the fray fighting side by side with his troops. However, on this fateful day, an especially skilled Taijut archer was able to pierce the Mongol defences and loose an arrow into the Kahn's horse, throwing him violently from the saddle, and nearly bringing his life to an end. Of course the Mongols went on to win the battle, and Genghy boy took it upon himself to find the archer who had come so close to ending his glorious reign. When he found that archer, he was tempted simply kill them as any lesser ruler would, but the glorious Kahn instead had a **creative** idea. He instantly gave the man a job as leader of a batallion in his army, and thus ensured that the skill had once come so close to killing him, would now instead be used to protect him. Truly a master tactician and creative genius.
+However, just being a professional is not enough, we must further deduce whether he was also a creative. To do so, we must first hear a story. There was an especially fierce battle with the Taijut tribe in 1201, and, as all great leaders should (that includes you Mark Carey) the G-Dog was embedded deep in the fray fighting side by side with his troops. However, on this fateful day, an especially skilled Taijut archer was able to pierce the Mongol defences and loose an arrow into the Kahn's horse, throwing him violently from the saddle, and nearly bringing his life to an end. Of course, the Mongols went on to win the battle, and Genghy boy took it upon himself to find the archer who had come so close to ending his glorious reign. When he found that archer, he was tempted simply kill them as any lesser ruler would, but the glorious Kahn instead had a **creative** idea. He instantly gave the man a job as leader of a battalion in his army, and thus ensured that the skill had once come so close to killing him, would now instead be used to protect him. Truly a master tactician and creative genius.
 
 From this wonderful tale about the glorious leader, we can come to the conclusion that he was also a creative.
 
@@ -42,7 +42,7 @@ Thus, I propose that if Genghis Kahn were alive today, and he had LinkedIn, one 
 
 With this evidence, I can back up [the conclusion stated at the start of this article](#does-the-concept-of-professionalism-apply-to-the-creative-industries) (Yes).
 
-However, even I cannot talk about Ghengis Kahn being a creative professional for long enough to finish this article, and as such, let us move on to our next historical figure, Steven Seagal (or as I like to call him Steven Sea-gull haha - just a little joke for you there 😜)
+However, even I cannot talk about Genghis Kahn being a creative professional for long enough to finish this article, and as such, let us move on to our next historical figure, Steven Seagal (or as I like to call him Steven Sea-gull haha - just a little joke for you there 😜)
 
 ![What a funny image](seagull.jpg)
 
@@ -64,7 +64,7 @@ Take this quote for example:
 >
 > [Steven Seagal](https://www.theguardian.com/film/2015/may/14/steven-seagal-the-mercenary-absolution-interview)
 
-Here, when Seagal says "hobbies", this can be interpreted as "being unprofessional", and deconstructing the metaphor further, "skills" are his professional abilities in the context of the creative industry. The message he is trying to get across is that to be unprofessional is not even worth considering, and instead we must focus on the future, and all of the professional opportunities that it may bring. So, if we unwrap the layers of metaphor that pervade all of Steven's works, we can deduce that what he really meant was:
+Here, when Seagal says “hobbies”, this can be interpreted as “being unprofessional”, and deconstructing the metaphor further, “skills” are his professional abilities in the context of the creative industry. The message he is trying to get across is that to be unprofessional is not even worth considering, and instead we must focus on the future, and all the professional opportunities that it may bring. So, if we unwrap the layers of metaphor that pervade all of Steven's works, we can deduce that what he really meant was:
 
 > Professionalism holds a key place in the creative workplaces of today. Without professionalism, we may as well be cavemen, rolling around in the mud, fighting, and hitting each other with sticks. Professionalism is the glue that holds our society together, and as a result, I believe that for anyone to insinuate that it's not is a great injustice against truth itsself. I'm going to sit down now.
 
