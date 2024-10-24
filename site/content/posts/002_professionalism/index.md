@@ -66,7 +66,7 @@ Take this quote for example:
 
 Here, when Seagal says “hobbies”, this can be interpreted as “being unprofessional”, and deconstructing the metaphor further, “skills” are his professional abilities in the context of the creative industry. The message he is trying to get across is that to be unprofessional is not even worth considering, and instead we must focus on the future, and all the professional opportunities that it may bring. So, if we unwrap the layers of metaphor that pervade all of Steven's works, we can deduce that what he really meant was:
 
-> Professionalism holds a key place in the creative workplaces of today. Without professionalism, we may as well be cavemen, rolling around in the mud, fighting, and hitting each other with sticks. Professionalism is the glue that holds our society together, and as a result, I believe that for anyone to insinuate that it's not is a great injustice against truth itsself. I'm going to sit down now.
+> Professionalism holds a key place in the creative workplaces of today. Without professionalism, we may as well be cavemen, rolling around in the mud, fighting, and hitting each other with sticks. Instead we can roll around in the workplace, working together and improving the world. Professionalism is the glue that holds our society together, and as a result, I believe that for anyone to insinuate that it's not is a great injustice against truth itsself. I'm going to sit down now.
 
 I for one, can heartily agree.
 
