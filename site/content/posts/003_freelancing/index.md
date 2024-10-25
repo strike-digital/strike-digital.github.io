@@ -37,7 +37,7 @@ Initially I was disappointed by this, as I knew that it was high quality, but af
 
 This resulted in a large uptick in sales, going from one sale every few sales, to multiple sales each day. Now, 3 years later, the addon has over 2500 sales and is still going strong, something that I attribute to the combination of having a strong product, and also a strong marketing strategy.
 
-And so, in order to practice what I preach, please have a look at Alpha Trees here:
+And so, in order to practice what I preach, you can have a look at Alpha Trees here:
 
 https://blendermarket.com/products/alpha-trees
 
