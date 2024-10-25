@@ -13,7 +13,7 @@ Yes.
 
 ## Furthermore...
 
-From Aristotle to Steven Segal, the greatest minds in humanities long history have pondered what it takes to be a true Professional in the creative industries.
+From Aristotle to Steven Seagal, the greatest minds in humanities long history have pondered what it takes to be a true Professional in the creative industries.
 Is it the ability to conquer your foes, crush them to dust, and then drink wine from their skulls? That's probably what Genghis Kahn would say.
 Or is it the ability to work peacefully to achieve our goals, as Gandhi would probably have proclaimed?
 
