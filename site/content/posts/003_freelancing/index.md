@@ -1,5 +1,5 @@
 +++
-title = 'Is Freelancing the road to success?'
+title = 'Is Freelancing the Road to Success?'
 date = 2024-10-25T13:00:51+01:00
 # draft = true
 +++

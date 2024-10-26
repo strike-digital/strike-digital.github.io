@@ -3,7 +3,7 @@ date: "2024-09-30T01:25:41+01:00"
 description: Don't follow this advice. Or do. I'm not your mum.
 draft: true
 image: burning laptop.webp
-title: How (not) to create an online presence
+title: How (not) to Create an Online Presence
 ---
 <!-- 
 
