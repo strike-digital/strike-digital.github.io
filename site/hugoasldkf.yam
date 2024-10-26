@@ -1,0 +1,7 @@
+baseURL: https://example.org/
+languageCode: en-gb
+title: Andrew Stevenson
+copyright: Andrew Stevenson
+# newContentEditor: code
+
+theme: blowfish

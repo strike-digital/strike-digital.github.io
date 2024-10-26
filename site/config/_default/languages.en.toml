@@ -1,0 +1,33 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Andrew Stevenson"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/logo round.png"
+  # secondaryLogo = "img/logo.png"
+  # description = "Hello :)"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[params.author]
+  name = "Andrew Stevenson"
+  # email = "youremail@example.com"
+  image = "img/logo.png"
+  imageQuality = 96
+  headline = "Technical Artist"
+  bio = "Technical artist"
+  links = [
+    { artstation = "https://www.artstation.com/strike_digital" },
+    { github = "https://github.com/strike-digital" },
+    { twitter = "https://twitter.com/StrikeDigital1" },
+    { youtube = "https://www.youtube.com/@StrikeDigital3D" },
+    # { linkedin = "https://linkedin.com/in/username" },
+    # { email = "mailto:hello@your_domain.com" },
+    # { link = "https://link-to-some-website.com/" },
+    # { stack-overflow = "https://stackoverflow.com/users/userid/username" },
+  ]

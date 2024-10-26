@@ -1,20 +1,11 @@
-+++
-title = 'How (not) to create an online presence'
-date = 2024-09-30T01:25:41+01:00
-image = 'burning laptop.webp'
-# image = 'logo.png'
-# image = 'img/logo.png'
-description = "Don't follow this advice. Or do. I'm not your mum."
-draft = true
-+++
+---
+date: "2024-09-30T01:25:41+01:00"
+description: Don't follow this advice. Or do. I'm not your mum.
+draft: true
+image: burning laptop.webp
+title: How (not) to Create an Online Presence
+---
 <!-- 
-{{< quote auth="Lady Gaga" source="Lady Gaga (allegedly)" url="https://www.brainyquote.com/quotes/lady_gaga_806781">}}
-### _The Internet is a toilet._
-{{< /quote >}} -->
-<!-- 
-{{< quote auth="The Dalai Lama" source="The Dalai Lama" url="https://www.dalailama.com/messages/transcripts-and-interviews/the-purpose-of-life-is-to-be-happy">}}
-The purpose of our lives is to be happy.
-{{< /quote >}}
 
 Unfortunately, as a creative, you also have to create an online presence.
 So buckle up, because you're about the learn how. -->
