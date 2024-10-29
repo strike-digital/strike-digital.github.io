@@ -20,10 +20,14 @@
  pageRef = "posts"
  weight = 20
 
+[[main]]
+  name = "Portfolio"
+  # pre = "github"
+  url = "https://www.artstation.com/strike_digital"
+
 # [[main]]
 #  name = "Parent"
 #  weight = 20
-
 
 # [[main]]
 #   name = ""
