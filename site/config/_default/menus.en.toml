@@ -25,6 +25,17 @@
   # pre = "github"
   url = "https://www.artstation.com/strike_digital"
 
+[[main]]
+  name = "Artstation"
+  parent = "Portfolio"
+  # pre = "github"
+  url = "https://www.artstation.com/strike_digital"
+
+[[main]]
+  name = "Github"
+  parent = "Portfolio"
+  url = "https://github.com/strike-digital"
+
 # [[main]]
 #  name = "Parent"
 #  weight = 20
