@@ -36,6 +36,11 @@
   parent = "Portfolio"
   url = "https://github.com/strike-digital"
 
+[[main]]
+  name = "Photography"
+  parent = "Portfolio"
+  url = "photos"
+
 # [[main]]
 #  name = "Parent"
 #  weight = 20
