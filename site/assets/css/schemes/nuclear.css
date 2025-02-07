@@ -31,6 +31,14 @@
     --color-secondary-800: 23, 117, 74;
     --color-secondary-900: 17, 83, 53;
 }
+
+/*👉.wide {
+    max-width: 100% !important;
+}
+
+.wide {
+    max-width: 100% !important;
+}👈*/
 /*👉
 :root {
     --color-neutral: 255, 255, 255;

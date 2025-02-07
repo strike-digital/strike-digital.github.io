@@ -1,0 +1,18 @@
+
+{{ $id := delimit (slice "gallery" (partial "functions/uid.html" .)) "-" }}
+{{ $folder := .Get "folder"}}
+{{/*  {{ $folder := .Page.Ref}}  */}}
+{{/*  <div id="{{ $id }}" >  */}}
+<style>
+  .img {
+    margin: 20%;
+  }
+</style>
+<div style="width: 200%" class="gallery">
+{{ range (readDir $folder ) }}
+  {{/*  <img src="gallery/{{ .Name }}" class="grid-w33">  */}}
+  {{/*  <img src="gallery/{{ .Name }}" class="grid-w100">  */}}
+  <img src="gallery/{{ .Name }}" style="margin-top: 1em; margin-bottom: 1em">
+{{ end }}
+{{/*  </div>  */}}
+</div>
