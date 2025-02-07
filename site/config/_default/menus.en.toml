@@ -37,9 +37,9 @@
   url = "https://github.com/strike-digital"
 
 [[main]]
-  name = "Photography"
+  name = "Photos"
   parent = "Portfolio"
-  url = "photos"
+  pageRef = "photos"
 
 # [[main]]
 #  name = "Parent"
