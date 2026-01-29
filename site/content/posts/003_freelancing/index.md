@@ -1,7 +1,7 @@
 +++
 title = 'Is Freelancing the Road to Success?'
 date = 2024-10-25T13:00:51+01:00
-# draft = true
+draft = true
 +++
 
 When junior artists, animators and programmers are getting into the industry, they often make the mistake of only considering one potential career path: applying to a large studio where they can work as a team of tens, hundereds or even thousands of fellow creatives on each project. However, what they often fail to recognize is that this is just one of many paths to success, and while it may work for a lot of people, for others, freelancing may be a better route.

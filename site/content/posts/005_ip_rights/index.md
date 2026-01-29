@@ -1,8 +1,7 @@
-
 +++
 title = 'IP Rights in the Creative Industries'
 date = 2024-10-29T15:32:31Z
-# draft = true
+draft = true
 +++
 
 ## What is IP?

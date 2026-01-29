@@ -1,7 +1,7 @@
 +++
 title = 'Does the Concept of Professionalism Apply to the Creative Industries?'
 date = 2024-10-13T23:09:33+01:00
-draft = true
+# draft = true
 +++
 
 <!-- 
